@@ -1,4 +1,4 @@
 FROM almalinux:9
-LABEL author = "chaithanya" \
-      company="devops"  
+LABEL   author="chaithanya" \
+        company="devops"
     
