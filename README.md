@@ -1,2 +1,12 @@
 # docker_l
-this is readme file content
+to build docker image from current folder
+docker build -t name:tag .
+
+FROM
+RUN
+CMD
+ENV
+LABEL
+EXPOSE
+COPY
+ADD
